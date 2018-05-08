@@ -1,0 +1,13 @@
+﻿Build started 28-04-2018 09:23:53.
+     1>Project "C:\Users\Ulterno\documents\visual studio 2015\Projects\Family_Tree\Family_Tree\Family_Tree.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt INterface.cpp treeclass.cpp
+         treeclass.cpp
+     1>c:\users\ulterno\documents\visual studio 2015\projects\family_tree\family_tree\treeclass.cpp(6): fatal error C1004: unexpected end-of-file found
+         INterface.cpp
+         Generating Code...
+     1>Done Building Project "C:\Users\Ulterno\documents\visual studio 2015\Projects\Family_Tree\Family_Tree\Family_Tree.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:01.02
